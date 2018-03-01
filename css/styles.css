@@ -1,0 +1,138 @@
+header{
+
+    position: relative;
+    margin: 20px auto;
+    width: 1000px;
+    height: 120px;
+    background: #444;
+
+}
+
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+
+    position: relative;
+    margin: auto;
+    width: 1000px;
+    height: 48px;
+    background: #CCC;
+
+}
+
+#top{
+
+    position: relative;
+    margin: 20px auto;
+    width: 1000px;
+    height: 192px;
+    /* background: #CCC; */
+
+}
+
+section{
+    position: relative;
+    margin: auto;
+    width: 1000px;
+    height: 450px;
+    background: #aaa;
+}
+
+footer{
+
+    position: relative;
+    margin: 20px auto;
+    width: 1000px;
+    height: 70px;
+    background: #888;
+}
+
+#logo{
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    background: #CCC;
+    left: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.redes{
+
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    background: #CCC;
+    top: 50%;
+    transform: translateY(-50%);
+    border-radius: 50%;
+}
+
+#icono1{
+    right: 120px;
+}
+
+#icono2{
+    right: 71px;
+}
+
+#icono3{
+    right: 20px;
+}
+
+.botones{
+    width: 196px;
+    margin: 0px 2px;
+    height: 48px;
+    background: #333;
+    float: left;
+}
+
+#top ul{
+    width: 1010px;
+    height: 192px;
+}
+
+#top ul li{
+    float: left;
+    width: 326px;
+    height: 196px;
+    background: #000;
+    margin-right: 10px;
+}
+
+aside#izq{
+
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 200px;
+    height: 450px;
+    background: #666;
+
+}
+
+article{
+    position: absolute;
+    left: 200px;
+    top: 0;
+    width: 600px;
+    height: 450px;
+    background: #444;
+}
+
+aside#der{
+
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 200px;
+    height: 450px;
+    background: #666;
+
+}
+
